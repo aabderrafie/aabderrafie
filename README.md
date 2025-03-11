@@ -1,62 +1,129 @@
-# 🌌 Hey, I’m Abderrafie Askal!  
+# <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> Abderrafie Askal | Cybersecurity Enthusiast
 
-![Profile Banner](https://via.placeholder.com/1200x200.png?text=Welcome+to+My+Cyber+Universe)  
-*(Feel free to replace this with a custom banner!)*  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=39FF14&size=30&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student;CTF+Player;Binary+Exploitation+Specialist;Future+Security+Expert)](https://git.io/typing-svg)
 
----
+<div align="center">
+  <img src="https://i.imgur.com/8MupZHY.gif" width="400px"/>
+  <br>
 
-## 💫 About Me  
-Hey there! I’m **Abderrafie Askal**, a passionate student at **1337 Med**, grinding my way through the **Common Core** program. I’m obsessed with **cybersecurity** and love diving into **Capture The Flag (CTF)** challenges to sharpen my skills. My dream? To become a **cybersecurity expert** who can crack any system (ethically, of course!).  
-
-🔍 **Current Focus:** Mastering **binary exploitation** and leveling up my cybersecurity game.  
-
----
-
-## 🛠️ My Tech Arsenal  
-Here’s what I wield in the digital battlefield:  
-
-### Languages  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-
-### Scripting  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
-![Python Scripting](https://img.shields.io/badge/-Python_Scripting-3776AB?style=flat&logo=python&logoColor=white)  
-
-### Superpowers  
-- **Algorithms:** Problem-solving wizardry  
-- **CTF Skills:** Breaking and securing systems like a pro  
+  ## `whoami`
+  
+  👨‍💻 Student at **1337 Med** (42 Network) | Currently in **Common Core**<br>
+  🛡️ Passionate about breaking and securing systems<br>
+  🏆 CTF player focused on binary exploitation<br>
+  🔐 Building my path to become a cybersecurity expert<br>
+</div>
 
 ---
 
-## 🌐 Let’s Connect!  
-Find me exploring the cyberverse:  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/yourprofile)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+## 🧰 My Toolbox
 
-*(Replace the links with your actual profiles!)*  
-
----
-
-## 📊 My GitHub Stats  
-![Abderrafie’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabderrafie&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aabderrafie&layout=compact&theme=radical)  
-*(Update 'aabderrafie' to your actual GitHub username!)*  
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
 
 ---
 
-## 🔝 Top Repo I’ve Contributed To  
-⭐ **[Your Top Repo Name](https://github.com/yourusername/your-repo)**  
-*(Link your favorite project here!)*  
+## 💻 Cybersecurity Skills
+
+```bash
+> running skill_scan.sh...
+```
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">Binary Exploitation</td>
+      <td>
+        <img src="https://progress-bar.dev/80/" width="100px">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Reverse Engineering</td>
+      <td>
+        <img src="https://progress-bar.dev/75/" width="100px">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Web Exploitation</td>
+      <td>
+        <img src="https://progress-bar.dev/65/" width="100px">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Cryptography</td>
+      <td>
+        <img src="https://progress-bar.dev/60/" width="100px">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Network Security</td>
+      <td>
+        <img src="https://progress-bar.dev/70/" width="100px">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🚀 Fun Fact  
-I once spent 48 hours straight debugging a binary exploit… and I’d do it again!  
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aabderrafie&show_icons=true&theme=dark&title_color=39FF14&text_color=ffffff&icon_color=39FF14&ring_color=39FF14" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabderrafie&theme=dark&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabderrafie&theme=dark&layout=compact&title_color=39FF14" alt="Top Languages"/>
+</div>
 
 ---
 
-*“The only way to secure a system is to break it first.”*  
-Let’s build, break, and secure the future together!  
+## 🏆 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/aabderrafie/your-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aabderrafie&repo=your-project-1&theme=dark&title_color=39FF14&icon_color=39FF14" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/aabderrafie/your-project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aabderrafie&repo=your-project-2&theme=dark&title_color=39FF14&icon_color=39FF14" alt="Project 2"/>
+  </a>
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://discordapp.com/users/your-discord-id">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Quote of the Day
+
+_"The quieter you become, the more you are able to hear."_ — Kali Linux
+
+![Visitor Count](https://profile-counter.glitch.me/aabderrafie/count.svg)
+
+</div>
