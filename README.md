@@ -1,21 +1,62 @@
-# 💫 About Me:
-Hi, I'm Abderrafie askal, a student at 1337 Med, currently working through the Common Core program. I have a strong interest in cybersecurity and regularly participate in Capture The Flag (CTF) competitions to enhance my skills.<br><br>🔍 I’m focusing on binary exploitation and other cybersecurity techniques, with the goal of becoming a cybersecurity expert. My skill set includes:<br><br>Languages: C, C++, Python<br>Scripting: Bash, Python scripting<br>Algorithms: Problem-solving and algorithmic thinking
+# 🌌 Hey, I’m Abderrafie Askal!  
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/aabderrafie) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abderrafie_askal/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aabderrafie/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aabderrafie&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aabderrafie&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aabderrafie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aabderrafie&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Profile Banner](https://via.placeholder.com/1200x200.png?text=Welcome+to+My+Cyber+Universe)  
+*(Feel free to replace this with a custom banner!)*  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aabderrafie&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me  
+Hey there! I’m **Abderrafie Askal**, a passionate student at **1337 Med**, grinding my way through the **Common Core** program. I’m obsessed with **cybersecurity** and love diving into **Capture The Flag (CTF)** challenges to sharpen my skills. My dream? To become a **cybersecurity expert** who can crack any system (ethically, of course!).  
+
+🔍 **Current Focus:** Mastering **binary exploitation** and leveling up my cybersecurity game.  
+
+---
+
+## 🛠️ My Tech Arsenal  
+Here’s what I wield in the digital battlefield:  
+
+### Languages  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+
+### Scripting  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
+![Python Scripting](https://img.shields.io/badge/-Python_Scripting-3776AB?style=flat&logo=python&logoColor=white)  
+
+### Superpowers  
+- **Algorithms:** Problem-solving wizardry  
+- **CTF Skills:** Breaking and securing systems like a pro  
+
+---
+
+## 🌐 Let’s Connect!  
+Find me exploring the cyberverse:  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/yourprofile)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+
+*(Replace the links with your actual profiles!)*  
+
+---
+
+## 📊 My GitHub Stats  
+![Abderrafie’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabderrafie&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aabderrafie&layout=compact&theme=radical)  
+*(Update 'aabderrafie' to your actual GitHub username!)*  
+
+---
+
+## 🔝 Top Repo I’ve Contributed To  
+⭐ **[Your Top Repo Name](https://github.com/yourusername/your-repo)**  
+*(Link your favorite project here!)*  
+
+---
+
+## 🚀 Fun Fact  
+I once spent 48 hours straight debugging a binary exploit… and I’d do it again!  
+
+---
+
+*“The only way to secure a system is to break it first.”*  
+Let’s build, break, and secure the future together!  
