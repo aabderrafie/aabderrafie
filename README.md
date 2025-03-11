@@ -1,6 +1,6 @@
-# <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> Abderrafie Askal | Cybersecurity Enthusiast
+# <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> Abderrafie Askal | Penetration Tester & Security Researcher
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=39FF14&size=30&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student;CTF+Player;Binary+Exploitation+Specialist;Future+Security+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=39FF14&size=30&center=true&vCenter=true&width=600&height=100&lines=Penetration+Testing+Student;CTF+Player;Binary+Exploitation+Specialist;Future+Security+Expert;Ethical+Hacker)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://i.imgur.com/8MupZHY.gif" width="400px"/>
@@ -9,9 +9,10 @@
   ## `whoami`
   
   👨‍💻 Student at **1337 Med** (42 Network) | Currently in **Common Core**<br>
-  🛡️ Passionate about breaking and securing systems<br>
-  🏆 CTF player focused on binary exploitation<br>
-  🔐 Building my path to become a cybersecurity expert<br>
+  🔐 Penetration Testing enthusiast focusing on offensive security<br>
+  🏆 CTF player specialized in binary exploitation challenges<br>
+  🛡️ Learning to think like attackers to build better defenses<br>
+  💻 Passionate about solving complex security problems<br>
 </div>
 
 ---
@@ -26,14 +27,17 @@
   <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
 </div>
 
 ---
 
-## 💻 Cybersecurity Skills
+## 💻 Security & Technical Skills
 
 ```bash
-> running skill_scan.sh...
+> running pentest_skill_scan.sh...
 ```
 
 <div align="center">
@@ -41,34 +45,71 @@
     <tr>
       <td align="center">Binary Exploitation</td>
       <td>
-        <img src="https://progress-bar.dev/80/?color=39FF14" width="200px">
+        <img src="https://progress-bar.dev/85/?color=39FF14" width="200px">
       </td>
     </tr>
     <tr>
       <td align="center">Reverse Engineering</td>
       <td>
+        <img src="https://progress-bar.dev/80/?color=39FF14" width="200px">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Penetration Testing</td>
+      <td>
         <img src="https://progress-bar.dev/75/?color=39FF14" width="200px">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">Web Exploitation</td>
-      <td>
-        <img src="https://progress-bar.dev/65/?color=39FF14" width="200px">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">Cryptography</td>
-      <td>
-        <img src="https://progress-bar.dev/60/?color=39FF14" width="200px">
       </td>
     </tr>
     <tr>
       <td align="center">Network Security</td>
       <td>
+        <img src="https://progress-bar.dev/78/?color=39FF14" width="200px">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Web Exploitation</td>
+      <td>
+        <img src="https://progress-bar.dev/72/?color=39FF14" width="200px">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Cryptography</td>
+      <td>
+        <img src="https://progress-bar.dev/65/?color=39FF14" width="200px">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Algorithms & Data Structures</td>
+      <td>
+        <img src="https://progress-bar.dev/82/?color=39FF14" width="200px">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">OSINT</td>
+      <td>
         <img src="https://progress-bar.dev/70/?color=39FF14" width="200px">
       </td>
     </tr>
+    <tr>
+      <td align="center">Vulnerability Research</td>
+      <td>
+        <img src="https://progress-bar.dev/68/?color=39FF14" width="200px">
+      </td>
+    </tr>
   </table>
+</div>
+
+---
+
+## 🛠️ Penetration Testing Areas 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Network_Pentesting-39FF14?style=for-the-badge" alt="Network Pentesting"/>
+  <img src="https://img.shields.io/badge/Web_Application_Testing-39FF14?style=for-the-badge" alt="Web Application Testing"/>
+  <img src="https://img.shields.io/badge/Exploit_Development-39FF14?style=for-the-badge" alt="Exploit Development"/>
+  <img src="https://img.shields.io/badge/Buffer_Overflows-39FF14?style=for-the-badge" alt="Buffer Overflows"/>
+  <img src="https://img.shields.io/badge/Privilege_Escalation-39FF14?style=for-the-badge" alt="Privilege Escalation"/>
+  <img src="https://img.shields.io/badge/Social_Engineering-39FF14?style=for-the-badge" alt="Social Engineering"/>
 </div>
 
 ---
@@ -97,6 +138,18 @@
 
 ---
 
+## 📚 CTF Platforms & Learning Resources
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  <img src="https://img.shields.io/badge/Vulnhub-DAA520?style=for-the-badge" alt="Vulnhub"/>
+  <img src="https://img.shields.io/badge/PortSwigger-FF6347?style=for-the-badge" alt="PortSwigger"/>
+  <img src="https://img.shields.io/badge/PentesterLab-3399FF?style=for-the-badge" alt="PentesterLab"/>
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -118,9 +171,9 @@
 
 <div align="center">
 
-### 💡 Quote of the Day
+### 💡 Hacker Quote
 
-_"The quieter you become, the more you are able to hear."_ — Kali Linux
+_"Every system is vulnerable; you just need to find the right entry point."_
 
 <img src="https://komarev.com/ghpvc/?username=aabderrafie&color=39FF14&style=flat-square" alt="Profile Views"/>
 
