@@ -114,28 +114,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/aabderrafie">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aabderrafie&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aabderrafie&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=aabderrafie&show_icons=true&theme=dark&title_color=39FF14&text_color=ffffff&icon_color=39FF14&ring_color=39FF14" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabderrafie&theme=dark&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" height="170"/>
 </div>
-
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aabderrafie&show_icons=true&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117" alt="Abderrafie Askal github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabderrafie&layout=compact&hide_border=true&title_color=39FF14&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabderrafie&theme=dark&layout=compact&title_color=39FF14" alt="Top Languages"/>
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aabderrafie&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabderrafie&theme=github-dark&hide_border=true&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakNum=39FF14&currStreakLabel=39FF14&sideNums=39FF14&dates=c9d1d9" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 📚 CTF Platforms & Learning Resources
