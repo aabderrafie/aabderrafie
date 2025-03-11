@@ -41,31 +41,31 @@
     <tr>
       <td align="center">Binary Exploitation</td>
       <td>
-        <img src="https://progress-bar.dev/80/" width="100px">
+        <img src="https://progress-bar.dev/80/?color=39FF14" width="200px">
       </td>
     </tr>
     <tr>
       <td align="center">Reverse Engineering</td>
       <td>
-        <img src="https://progress-bar.dev/75/" width="100px">
+        <img src="https://progress-bar.dev/75/?color=39FF14" width="200px">
       </td>
     </tr>
     <tr>
       <td align="center">Web Exploitation</td>
       <td>
-        <img src="https://progress-bar.dev/65/" width="100px">
+        <img src="https://progress-bar.dev/65/?color=39FF14" width="200px">
       </td>
     </tr>
     <tr>
       <td align="center">Cryptography</td>
       <td>
-        <img src="https://progress-bar.dev/60/" width="100px">
+        <img src="https://progress-bar.dev/60/?color=39FF14" width="200px">
       </td>
     </tr>
     <tr>
       <td align="center">Network Security</td>
       <td>
-        <img src="https://progress-bar.dev/70/" width="100px">
+        <img src="https://progress-bar.dev/70/?color=39FF14" width="200px">
       </td>
     </tr>
   </table>
@@ -76,25 +76,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aabderrafie&show_icons=true&theme=dark&title_color=39FF14&text_color=ffffff&icon_color=39FF14&ring_color=39FF14" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabderrafie&theme=dark&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" height="170"/>
+  <a href="https://github.com/aabderrafie">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aabderrafie&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aabderrafie&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabderrafie&theme=dark&layout=compact&title_color=39FF14" alt="Top Languages"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aabderrafie&show_icons=true&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117" alt="Abderrafie Askal github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabderrafie&layout=compact&hide_border=true&title_color=39FF14&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
----
-
-## 🏆 Featured Projects
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aabderrafie&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
 
 <div align="center">
-  <a href="https://github.com/aabderrafie/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aabderrafie&repo=your-project-1&theme=dark&title_color=39FF14&icon_color=39FF14" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/aabderrafie/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aabderrafie&repo=your-project-2&theme=dark&title_color=39FF14&icon_color=39FF14" alt="Project 2"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabderrafie&theme=github-dark&hide_border=true&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakNum=39FF14&currStreakLabel=39FF14&sideNums=39FF14&dates=c9d1d9" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -124,6 +122,6 @@
 
 _"The quieter you become, the more you are able to hear."_ — Kali Linux
 
-![Visitor Count](https://profile-counter.glitch.me/aabderrafie/count.svg)
+<img src="https://komarev.com/ghpvc/?username=aabderrafie&color=39FF14&style=flat-square" alt="Profile Views"/>
 
 </div>
